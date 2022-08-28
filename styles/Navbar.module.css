@@ -1,0 +1,29 @@
+.nav {
+    box-shadow: 2px 2px 12px #ccc;
+}
+
+.container {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo h1 {
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.links {
+    width: 30%;
+}
+
+.links ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links ul li a {
+    color: gray;
+}
